@@ -1,6 +1,6 @@
 import socket
 # -*- coding: utf-8 -*-
-__author__ = 'Administrator'
+__author__ = 'luoguoling'
 #socket_server.py
 # -*- coding: utf-8 -*-
 
