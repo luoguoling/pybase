@@ -1,4 +1,4 @@
-__author__ = 'luoguoling'
+__author__ = 'luoguoling1'
 import paramiko,sys,os
 import multiprocessing
 user = 'root'
