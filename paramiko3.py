@@ -3,7 +3,7 @@ import paramiko,sys,os
 import multiprocessing
 user = 'root'
 def ssh_cmd(host,port,user,cmd):
-    msg = '_______________result:%s________' % host
+    msg = '_______________result:%s__________' % host
     s = paramiko.SSHClient()
 #    s.load_host_keys()
     s.set_missing_host_key_policy(paramiko.AutoAddPolicy())
